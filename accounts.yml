@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related docker"
+  message: "Welcome to EasyBank accounts related local"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@easybank.com"
